@@ -1,20 +1,4 @@
-//package com.cryptosoft.dtos;
-//
-//import lombok.AllArgsConstructor;
-//
-//import lombok.Builder;
-//import lombok.Data;
-//import lombok.NoArgsConstructor;
-//
-//@Data
-//@Builder
-//@NoArgsConstructor
-//@AllArgsConstructor
-//public class DepartmentRegisterRequest {
-//
-//	private String name;
-//
-//}
+
 package com.cloud.ChronoSyncPro.dtos;
 
 public class DepartmentRegisterRequest {

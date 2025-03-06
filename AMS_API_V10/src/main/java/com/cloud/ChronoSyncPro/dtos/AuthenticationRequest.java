@@ -1,19 +1,3 @@
-//package com.cryptosoft.dtos;
-//
-//import lombok.AllArgsConstructor;
-//
-//import lombok.Data;
-//import lombok.NoArgsConstructor;
-//
-//@Data
-//@NoArgsConstructor
-//@AllArgsConstructor
-//public class AuthenticationRequest {
-//
-//	private String email;
-//	private String password;
-//	
-//}
 package com.cloud.ChronoSyncPro.dtos;
 
 public class AuthenticationRequest {
