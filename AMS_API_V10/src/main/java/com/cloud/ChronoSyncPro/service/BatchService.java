@@ -25,7 +25,7 @@ public class BatchService {
     public BatchService(BatchRepository batchRepository) {
         this.batchRepository = batchRepository;
     }
-//
+
     @Transactional
     public Batch saveBatch(BatchRegisterRequest batchRegisterRequest) {
         Batch batch = new Batch();
